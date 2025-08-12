@@ -70,14 +70,15 @@ sora
 claude
 Anthropic
 
-iphone
-ipad
-mac
-ios
+健康
+养生
+死亡
 
 ai
 !gai
 人工智能
+agent
+智能体
 
 自动驾驶
 
